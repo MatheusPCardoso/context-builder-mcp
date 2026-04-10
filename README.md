@@ -57,6 +57,6 @@ Adicione em `~/.kiro/settings/mcp.json` (Kiro) ou no config do Claude Desktop:
 
 ## Inspiração
 
-Baseado na arquitetura do [lucidity-mcp]([https://github.com/hyperbliss/lucidity](https://github.com/hyperb1iss/lucidity-mcp)) de [@hyperbliss]([https://github.com/hyperbliss](https://github.com/hyperb1iss)).
+Baseado na arquitetura do [lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp) de [@hyperbliss](https://github.com/hyperb1iss).
 O lucidity usa o mesmo padrão FastMCP + stdio para entregar análise de código via git diff.
 O context-builder expande essa ideia para cobrir o fluxo completo de trabalho com IA: memória de sessão, geração de prompts e preparação de contexto de projeto.
